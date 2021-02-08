@@ -1,4 +1,4 @@
-# Spring Microservices (Game Ecommerce)
+# Spring Microservices (Game Ecommerce) [WIP]
 
 ## Descrição
 
@@ -12,3 +12,4 @@ O sistema como um todo foi desenvolvido usando Kotlin, Postgres como banco de da
 ### Obervações
 
 * Autenticação e autorização: autenticação é a capacidade de um sistema suportar login e logout, enquanto que a autorização está relacionada a verificar quais recursos um determinado usuário tem acesso. Por exemplo, um cliente só é capaz de visualizar os detalhes do produto, mas não é capaz de alterá-los.
+* Este projeto está em andamento, portanto as funcionalidades estão sendo adicionadas aos poucos.
