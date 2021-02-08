@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    driver-class: org.h2.Driver
+    url: jdbc:h2:mem:db;DB_CLOSE_DELAY=-1
+    username: sa
+    password:
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true
+        enable_lazy_load_no_trans: true
+
+jwt:
+  secret: f602da1a7deb2e5b23169f47d6d294cfcbb0fcc472ab3f361ee2792f9378ca2
