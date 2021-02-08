@@ -10,4 +10,4 @@ O sistema como um todo foi desenvolvido usando Kotlin, Postgres como banco de da
 
 ### Obervações
 
-* Autenticação e autorização: autenticação é a capacidade de um sistema suportar login e logou, enquanto que a autorização está relacionada a verificar quais recursos um determinado usuário tem acesso. Por exemplo, um cliente só é capaz de visualizar os detalhes do produto, mas não é capaz de alterá-los.
+* Autenticação e autorização: autenticação é a capacidade de um sistema suportar login e logout, enquanto que a autorização está relacionada a verificar quais recursos um determinado usuário tem acesso. Por exemplo, um cliente só é capaz de visualizar os detalhes do produto, mas não é capaz de alterá-los.
